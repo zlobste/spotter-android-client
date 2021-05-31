@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drivers"
+        android:enabled="true"
+        android:title="@string/my_drivers"
+        android:icon="@drawable/ic_drivers"/>
+    <item
+        android:id="@+id/drunk_drivers"
+        android:enabled="true"
+        android:title="@string/drunk"
+        android:icon="@drawable/ic_drunk"/>
+    <item
+        android:id="@+id/analytics"
+        android:enabled="true"
+        android:title="@string/analytics"
+        android:icon="@drawable/ic_analytics"/>
+</menu>
